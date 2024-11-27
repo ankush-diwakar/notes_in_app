@@ -20,7 +20,7 @@ import {
   Poppins_700Bold,
 } from '@expo-google-fonts/poppins';
 
-import AppLoading from 'expo-app-loading';
+
 import AntDesign from '@expo/vector-icons/AntDesign';
 import { useNavigation, useRoute } from '@react-navigation/native';
 import Card from './Card';
